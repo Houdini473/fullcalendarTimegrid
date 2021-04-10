@@ -21,7 +21,7 @@
   "homepage": "https://github.com/Houdini473/fullcalendarTimegrid#readme",
   "dependencies": {
     "@houdini473/common": "^1.0.1",
-    "@houdini473/daygrid": "^1.0.0",
+    "@houdini473/daygrid": "^1.0.1",
     "tslib": "^2.2.0"
   }
 }
