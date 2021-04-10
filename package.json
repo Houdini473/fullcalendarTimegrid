@@ -1,0 +1,27 @@
+{
+  "name": "@houdini473/timegrid",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.cjs.js",
+  "module": "main.js",
+  "types": "main.d.ts",
+  "jsdelivr": "main.global.min.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Houdini473/fullcalendarTimegrid.git"
+  },
+  "author": "Jacob March",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Houdini473/fullcalendarTimegrid/issues"
+  },
+  "homepage": "https://github.com/Houdini473/fullcalendarTimegrid#readme",
+  "dependencies": {
+    "@houdini473/common": "^1.0.1",
+    "@houdini473/daygrid": "^1.0.0",
+    "tslib": "^2.2.0"
+  }
+}
